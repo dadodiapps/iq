@@ -10,7 +10,6 @@
 {"number":"10","name":"Babylon FM 99.3","description":"","logo":"/s191646.png","streamUrl":"http://37.59.32.115:5113/1/","yourmuzeId":"0","state":"1"},
 {"number":"12","name":"Hawler Radio 90.7","description":"","logo":"/s161769.png","streamUrl":"http://node-27.zeno.fm/43f53ww6hrquv.mp3?rj-ttl=5&rj-tok=AAABcc7Y-uQAYvQJ9UTsSmlfXA","yourmuzeId":"0","state":"1"},
 {"number":"13","name":"Zagros Radio 92.3","description":"","logo":"/s139580.png","streamUrl":"http://95.170.220.164:8080/","yourmuzeId":"0","state":"2"},
-{"number":"14","name":"New Life Radio 97.1","description":"","logo":"/s218223.png","streamUrl":"https://s2.radio.co/sd3c7f8539/listen?s=1447126187","yourmuzeId":"0","state":"1"},
 {"number":"16","name":"Kirkuk FM 93.3","description":"","logo":"/s170956.png","streamUrl":"http://radiokirkuk.primcast.com:6438","yourmuzeId":"0","state":"2"},
 {"number":"17","name":"Altathamun 89.4","description":"","logo":"/s158525.png","streamUrl":"http://rafm89.com/image/brodcast/playlist.pls","yourmuzeId":"0","state":"2"},
 {"number":"20","name":"XFM 105.7","description":"","logo":"/s187733.png","streamUrl":"http://eu.radioboss.fm:8142","yourmuzeId":"0","state":"2"},
@@ -58,7 +57,7 @@
 {"number":"62","name":"Vin Radio","description":"","logo":"/s99075.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"0"},
 {"number":"63","name":"Vin Radio","description":"","logo":"/s99075.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"0"},
 {"number":"64","name":"Vin Radio","description":"","logo":"/s99075.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"0"},
-{"number":"65","name":"Vin Radio","description":"","logo":"/s99075.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"0"},
+{"number":"65","name":"New Life Radio 97.1","description":"","logo":"/s218223.png","streamUrl":"https://s2.radio.co/sd3c7f8539/listen?s=1447126187","yourmuzeId":"0","state":"1"},
      
   
   
