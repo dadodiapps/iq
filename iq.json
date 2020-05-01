@@ -1,8 +1,7 @@
 {"success":true,"message":"","radios":
 [
 
-{"number":"1","name":"Al Rasheed Radio 91.5","description":"","logo":"/s99075.png","streamUrl":"http://198.57.189.38:9998","yourmuzeId":"0","state":"1"},
-{"number":"2","name":"BBC Arabic 89.0","description":"","logo":"/s95796.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba_backup","yourmuzeId":"0","state":"1"},
+{"number":"1","name":"Al Rasheed Radio 91.5","description":"","logo":"/s99075.png","streamUrl":"http://alrasheedmedia.com:9998/stream","yourmuzeId":"0","state":"1"},
 {"number":"3","name":"Radio Al-Bilad 999","description":"","logo":"/s99568.png","streamUrl":"http://109.123.114.172:9892","yourmuzeId":"0","state":"1"},
 {"number":"4","name":"Radio Dijla 88.2","description":"","logo":"/s89208.png","streamUrl":"http://radio.ditve.tv:9702","yourmuzeId":"0","state":"1"},
 {"number":"5","name":"Radio Nawa (Kurdish) 89.9","description":"","logo":"/s95794.png","streamUrl":"http://nawaku.primcast.com:9146/","yourmuzeId":"0","state":"1"},
@@ -29,6 +28,19 @@
 {"number":"26","name":"Radio One Iraq","description":"","logo":"/s278032.png","streamUrl":"http://radio.ditve.tv:9718/","yourmuzeId":"0","state":"1"},
 {"number":"27","name":"Dengi Kurdsat","description":"","logo":"/s267560.png","streamUrl":"http://uk3.internet-radio.com:8011/stream","yourmuzeId":"0","state":"1"},
 
+{"number":"28","name":"bbc arabic news (إذاعة بي بي سي العربية)","description":"","logo":"/bbc arabic.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},    
+{"number":"29","name":"AL JAZEERA ENGLISH (قناة الجزيرة)","description":"","logo":"/AL JAZEERA EN.jpg","streamUrl":"http://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8","yourmuzeId":"0","state":"1"},   
+{"number":"30","name":"Radio Monte Carlo Doualiya","description":"","logo":"/monte carlo doualiya.png","streamUrl":"https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
+{"number":"31","name":"sky news arabia (سكاي نيوز عربية)","description":"","logo":"/sky news arabia.png","streamUrl":"https://radio.skynewsarabia.com/stream/radio/skynewsarabia","yourmuzeId":"0","state":"1"},   
+{"number":"32","name":"FM العربية","description":"","logo":"/FM العربية.jpg","streamUrl":"https://fm.alarabiya.net/fm/myStream/playlist.m3u8","yourmuzeId":"0","state":"1"},   
+{"number":"33","name":"Radio Al Jazeera Arabic (إذاعة الجزيرة العربية)","description":"","logo":"/Radio Al Jazeera Arabic.jpg","streamUrl":"https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8","yourmuzeId":"0","state":"1"} 
+     
+  
+  
+  
+  
+  
+  
 {"number":"147","name":"ماهر المعيقل","description":"","logo":"/m3ay9li.jpg","streamUrl":"http://server2.quraan.us:9856/;*.mp3","yourmuzeId":"0","state":"1"},
 {"number":"148","name":"ياسر الدوسري","description":"","logo":"/dawsari.jpg","streamUrl":"http://quraan.us:9884/;*.mp3","yourmuzeId":"0","state":"1"},
 {"number":"149","name":"ناصر القطامي","description":"","logo":"/elqatami.jpg","streamUrl":"http://server2.quraan.us:9886/;*.mp3","yourmuzeId":"0","state":"1"},
