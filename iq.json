@@ -53,10 +53,14 @@
 {"number":"58","name":"Virgin Radio","description":"","logo":"/s99075.png","streamUrl":"http://209.15.226.17:9000/stream/;","yourmuzeId":"0","state":"1"},
 {"number":"60","name":"AssyrianMp3 Radio","description":"","logo":"/s99075.png","streamUrl":"http://79.142.67.91:9998/stream","yourmuzeId":"0","state":"1"},
 {"number":"61","name":"MyOomta Assyrian Radio","description":"","logo":"/s99075.png","streamUrl":"https://streamer.radio.co/s51a438b13/listen","yourmuzeId":"0","state":"1"},
-{"number":"62","name":"Vin Radio","description":"","logo":"/s99075.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"1"},
-{"number":"63","name":"Vin Radio","description":"","logo":"/s99075.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"1"},
-{"number":"64","name":"Vin Radio","description":"","logo":"/s99075.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"1"},
+{"number":"62","name":"Nasaem Syria Radio(راديو نسائم)","description":"","logo":"/s99075.png","streamUrl":"http://node-17.zeno.fm/2qds7p2nerruv?rj-ttl=5&rj-tok=AAABcdLzkaMA_r1LZmfKk_rl4Q","yourmuzeId":"0","state":"1"},
+{"number":"63","name":"Ninar FM-نينار اف ام","description":"","logo":"/s99075.png","streamUrl":"http://ninarfm.grtvstream.com:8896/;stream.i5dm","yourmuzeId":"0","state":"1"},
+{"number":"64","name":"New Testament Baptist Radio","description":"","logo":"/s99075.png","streamUrl":"https://s2.radio.co/s27b8c46f0/listen","yourmuzeId":"0","state":"1"},
 {"number":"65","name":"New Life Radio 97.1","description":"","logo":"/s218223.png","streamUrl":"https://s2.radio.co/sd3c7f8539/listen?s=1447126187","yourmuzeId":"0","state":"1"},
+{"number":"66","name":"Radio 4 Teen FM ","description":"","logo":"/s99075.png","streamUrl":"http://209.15.226.17:9000/stream/;","yourmuzeId":"0","state":"1"},
+{"number":"67","name":"Radio Al-Kafeel(إذاعة الكفيل)","description":"","logo":"/s99075.png","streamUrl":"https://stream.alkafeel.net/live/radio/chunklist_w1667596488.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"68","name":"Radio Ashour","description":"","logo":"/s99075.png","streamUrl":"http://s8.voscast.com:9352/;","yourmuzeId":"0","state":"1"},
+{"number":"69","name":"Virgin Radio","description":"","logo":"/s99075.png","streamUrl":"http://209.15.226.17:9000/stream/;","yourmuzeId":"0","state":"1"},
      
 
 
