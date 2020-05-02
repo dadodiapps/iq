@@ -33,7 +33,7 @@
 {"number":"37","name":"Vin Radio","description":"","logo":"/Vin Radio.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"1"},
 {"number":"38","name":"Radio Dewran","description":"","logo":"/Radio Dewran.png","streamUrl":"http://node-19.zeno.fm/km3apn7gfrruv?rj-ttl=5&rj-tok=AAABcc7foVcAJxjcXgTY0ESMkA","yourmuzeId":"0","state":"1"},
 {"number":"39","name":"Al-Mirbad","description":"","logo":"/Al-Mirbad.png","streamUrl":"https://listen.mixlr.com/0d5f1e2acfb8bfe8caf42f285120017b","yourmuzeId":"0","state":"1"},
-{"number":"40","name":"Alghad FM","description":"","logo":"/Alghad FM.jpg","streamUrl":"http://s10.voscast.com:9410/;stream1519555802278/1?1567239044843","yourmuzeId":"0","state":"1"},
+{"number":"40","name":"Alghad FM(راديو الغد)","description":"","logo":"/Alghad FM.jpg","streamUrl":"http://s10.voscast.com:9410/;stream1519555802278/1?1567239044843","yourmuzeId":"0","state":"1"},
 {"number":"41","name":"Alrasheed FM Kirkuk","description":"","logo":"/Alrasheed FM Kirkuk.jpg","streamUrl":"http://alrasheedmedia.com:9994/;","yourmuzeId":"0","state":"1"},
 {"number":"42","name":"Iraq Hurr","description":"","logo":"/Iraq Hurr.jpg","streamUrl":"http://n02.radiojar.com/971ap0apn3quv?type=.mp3&rj-tok=AAABcc7zTn0ArR6Oac5NJAxZtQ&rj-ttl=5","yourmuzeId":"0","state":"1"},
 {"number":"43","name":"Kurdistan24","description":"","logo":"/Kurdistan24.png","streamUrl":"http://edge.mixlr.com/channel/ajqeg","yourmuzeId":"0","state":"1"},
@@ -47,18 +47,20 @@
 {"number":"52","name":"Alseraj Radio","description":"","logo":"/Alseraj Radio.png","streamUrl":"http://eu4.fastcast4u.com:5672/1/","yourmuzeId":"0","state":"1"},
 {"number":"53","name":"Hawa Dijlah","description":"","logo":"/Hawa Dijlah.jpg","streamUrl":"https://listen.radioking.com/radio/96766/stream/135421","yourmuzeId":"0","state":"1"},
 {"number":"54","name":"BFBS UK","description":"","logo":"/BFBS UK.jpg","streamUrl":"http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs1.mp3","yourmuzeId":"0","state":"1"},
-{"number":"55","name":"Vin Radio","description":"","logo":"/s99075.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"0"},
-{"number":"56","name":"Vin Radio","description":"","logo":"/s99075.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"0"},
-{"number":"57","name":"Vin Radio","description":"","logo":"/s99075.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"0"},
-{"number":"58","name":"Vin Radio","description":"","logo":"/s99075.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"0"},
-{"number":"59","name":"Vin Radio","description":"","logo":"/s99075.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"0"},
-{"number":"60","name":"Vin Radio","description":"","logo":"/s99075.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"0"},
+{"number":"55","name":"نجوم إف إم - Nogoum FM","description":"","logo":"/s99075.png","streamUrl":"http://ice31.securenetsystems.net/NOGOUM?s=143765971","yourmuzeId":"0","state":"0"},
+{"number":"56","name":"RADIO NAIM HALAWI(إذاعة نعيم حلاوي)","description":"","logo":"/s99075.png","streamUrl":"https://streamer.radio.co/sf2fa6ce9d/listen","yourmuzeId":"0","state":"2"},
+{"number":"57","name":"sawtelnoujoum(صوت النجوم)","description":"","logo":"/s99075.png","streamUrl":"http://elie91.primcast.com:7992/;stream.mp3","yourmuzeId":"0","state":"0"},
+{"number":"58","name":"Virgin Radio","description":"","logo":"/s99075.png","streamUrl":"http://209.15.226.17:9000/stream/;","yourmuzeId":"0","state":"0"},
+{"number":"60","name":"AssyrianMp3 Radio","description":"","logo":"/s99075.png","streamUrl":"http://79.142.67.91:9998/stream","yourmuzeId":"0","state":"0"},
 {"number":"61","name":"Vin Radio","description":"","logo":"/s99075.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"0"},
 {"number":"62","name":"Vin Radio","description":"","logo":"/s99075.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"0"},
 {"number":"63","name":"Vin Radio","description":"","logo":"/s99075.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"0"},
 {"number":"64","name":"Vin Radio","description":"","logo":"/s99075.png","streamUrl":"https://fmvin.out.airtime.pro/fmvin_a","yourmuzeId":"0","state":"0"},
 {"number":"65","name":"New Life Radio 97.1","description":"","logo":"/s218223.png","streamUrl":"https://s2.radio.co/sd3c7f8539/listen?s=1447126187","yourmuzeId":"0","state":"1"},
      
+
+
+
   
   
   
