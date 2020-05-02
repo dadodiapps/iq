@@ -18,7 +18,7 @@
 {"number":"23","name":"UR FM 98.8","description":"","logo":"/s95795.png","streamUrl":"mms://radiourfm.primcast.com/radiourfm","yourmuzeId":"0","state":"2"},
 {"number":"24","name":"Yakgirtoo Radio Duhok 88.7","description":"","logo":"/s183428.png","streamUrl":"http://67.231.245.170:9994","yourmuzeId":"0","state":"2"},
 {"number":"26","name":"Radio One Iraq","description":"","logo":"/s278032.png","streamUrl":"https://s2.radio.co/s03d947c9d/listen","yourmuzeId":"0","state":"1"},
-{"number":"27","name":"Dengi Kurdsat","description":"","logo":"/s267560.png","streamUrl":"http://uk3.internet-radio.com:8011/stream","yourmuzeId":"0","state":"1"},
+{"number":"27","name":"Dengi Kurdsat(kurdistan radio)","description":"","logo":"/s267560.png","streamUrl":"http://uk3.internet-radio.com:8011/stream","yourmuzeId":"0","state":"1"},
 
 {"number":"28","name":"bbc arabic news (إذاعة بي بي سي العربية)","description":"","logo":"/BBC_News_2019.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},    
 {"number":"29","name":"AL JAZEERA ENGLISH (قناة الجزيرة)","description":"","logo":"/AL JAZEERA EN.jpg","streamUrl":"http://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8","yourmuzeId":"0","state":"1"},   
@@ -60,7 +60,12 @@
 {"number":"66","name":"Radio 4 Teen FM ","description":"","logo":"/s99075.png","streamUrl":"http://209.15.226.17:9000/stream/;","yourmuzeId":"0","state":"1"},
 {"number":"67","name":"Radio Al-Kafeel(إذاعة الكفيل)","description":"","logo":"/s99075.png","streamUrl":"https://stream.alkafeel.net/live/radio/chunklist_w1667596488.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"68","name":"Radio Ashour","description":"","logo":"/s99075.png","streamUrl":"http://s8.voscast.com:9352/;","yourmuzeId":"0","state":"1"},
-{"number":"69","name":"Virgin Radio","description":"","logo":"/s99075.png","streamUrl":"http://209.15.226.17:9000/stream/;","yourmuzeId":"0","state":"1"},
+{"number":"69","name":"Radio Nas FM (راديو ناس إف إم)","description":"","logo":"/s99075.png","streamUrl":"https://freeuk29.listen2myradio.com/live.mp3?typeportmount=s1_14120_stream_749621784","yourmuzeId":"0","state":"1"},
+{"number":"70","name":"Nasaem Syria Radio(راديو نسائم)","description":"","logo":"/s99075.png","streamUrl":"http://node-17.zeno.fm/2qds7p2nerruv?rj-ttl=5&rj-tok=AAABcdLzkaMA_r1LZmfKk_rl4Q","yourmuzeId":"0","state":"1"},
+{"number":"71","name":"Nasaem Syria Radio(راديو نسائم)","description":"","logo":"/s99075.png","streamUrl":"http://node-17.zeno.fm/2qds7p2nerruv?rj-ttl=5&rj-tok=AAABcdLzkaMA_r1LZmfKk_rl4Q","yourmuzeId":"0","state":"1"},
+{"number":"72","name":"Nasaem Syria Radio(راديو نسائم)","description":"","logo":"/s99075.png","streamUrl":"http://node-17.zeno.fm/2qds7p2nerruv?rj-ttl=5&rj-tok=AAABcdLzkaMA_r1LZmfKk_rl4Q","yourmuzeId":"0","state":"1"},
+{"number":"73","name":"Nasaem Syria Radio(راديو نسائم)","description":"","logo":"/s99075.png","streamUrl":"http://node-17.zeno.fm/2qds7p2nerruv?rj-ttl=5&rj-tok=AAABcdLzkaMA_r1LZmfKk_rl4Q","yourmuzeId":"0","state":"1"},
+{"number":"74","name":"Nasaem Syria Radio(راديو نسائم)","description":"","logo":"/s99075.png","streamUrl":"http://node-17.zeno.fm/2qds7p2nerruv?rj-ttl=5&rj-tok=AAABcdLzkaMA_r1LZmfKk_rl4Q","yourmuzeId":"0","state":"1"},
      
 
 
