@@ -39,7 +39,7 @@
 {"number":"43","name":"Kurdistan24","description":"","logo":"/Kurdistan24.png","streamUrl":"http://edge.mixlr.com/channel/ajqeg","yourmuzeId":"0","state":"1"},
 {"number":"44","name":"KurdExtra","description":"","logo":"/KurdExtra.jpg","streamUrl":"http://node-26.zeno.fm/km3apn7gfrruv?rj-ttl=5&rj-tok=AAABcc745OkAidJ2sNV1KOFI1Q","yourmuzeId":"0","state":"1"},
 {"number":"45","name":"KurdMax FM","description":"","logo":"/KurdMax FM.png","streamUrl":"http://node-26.zeno.fm/km3apn7gfrruv?rj-ttl=5&rj-tok=AAABcc79L60A4d1LUc_d0X_qBA","yourmuzeId":"0","state":"1"},
-{"number":"46","name":"Radio Nawa","description":"","logo":"/s99075.png","streamUrl":"http://nawaradio.primcast.com:4098/;stream.mp3","yourmuzeId":"0","state":"1"},
+{"number":"46","name":"Radio Nawa","description":"","logo":"/Radio Nawa.jpg","streamUrl":"http://nawaradio.primcast.com:4098/;stream.mp3","yourmuzeId":"0","state":"1"},
 {"number":"47","name":"Radio Taxi Kurdish","description":"","logo":"/Radio Taxi Kurdish.jpg","streamUrl":"http://node-03.zeno.fm/km3apn7gfrruv?rj-ttl=5&rj-tok=AAABcc8GrnUAM9gVEL5TmQ0hAw","yourmuzeId":"0","state":"1"},
 {"number":"48","name":"Sawt Al Mustaqbal","description":"","logo":"/Sawt Al Mustaqbal.png","streamUrl":"https://live-sawtalmustaqbal.sharp-stream.com/sawtalmustaqbal.aac","yourmuzeId":"0","state":"1"}, 
 {"number":"50","name":"Rudaw News Radio","description":"","logo":"/Rudaw News Radio.jpg","streamUrl":"http://209.15.226.17:9006/stream","yourmuzeId":"0","state":"1"},
@@ -61,11 +61,11 @@
 {"number":"67","name":"Radio Al-Kafeel(إذاعة الكفيل)","description":"","logo":"/s99075.png","streamUrl":"https://stream.alkafeel.net/live/radio/chunklist_w1667596488.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"68","name":"Radio Ashour","description":"","logo":"/s99075.png","streamUrl":"http://s8.voscast.com:9352/;","yourmuzeId":"0","state":"1"},
 {"number":"69","name":"Radio Nas FM (راديو ناس إف إم)","description":"","logo":"/s99075.png","streamUrl":"https://freeuk29.listen2myradio.com/live.mp3?typeportmount=s1_14120_stream_749621784","yourmuzeId":"0","state":"1"},
-{"number":"70","name":"Nasaem Syria Radio(راديو نسائم)","description":"","logo":"/s99075.png","streamUrl":"http://node-17.zeno.fm/2qds7p2nerruv?rj-ttl=5&rj-tok=AAABcdLzkaMA_r1LZmfKk_rl4Q","yourmuzeId":"0","state":"1"},
-{"number":"71","name":"Nasaem Syria Radio(راديو نسائم)","description":"","logo":"/s99075.png","streamUrl":"http://node-17.zeno.fm/2qds7p2nerruv?rj-ttl=5&rj-tok=AAABcdLzkaMA_r1LZmfKk_rl4Q","yourmuzeId":"0","state":"1"},
-{"number":"72","name":"Nasaem Syria Radio(راديو نسائم)","description":"","logo":"/s99075.png","streamUrl":"http://node-17.zeno.fm/2qds7p2nerruv?rj-ttl=5&rj-tok=AAABcdLzkaMA_r1LZmfKk_rl4Q","yourmuzeId":"0","state":"1"},
-{"number":"73","name":"Nasaem Syria Radio(راديو نسائم)","description":"","logo":"/s99075.png","streamUrl":"http://node-17.zeno.fm/2qds7p2nerruv?rj-ttl=5&rj-tok=AAABcdLzkaMA_r1LZmfKk_rl4Q","yourmuzeId":"0","state":"1"},
-{"number":"74","name":"Nasaem Syria Radio(راديو نسائم)","description":"","logo":"/s99075.png","streamUrl":"http://node-17.zeno.fm/2qds7p2nerruv?rj-ttl=5&rj-tok=AAABcdLzkaMA_r1LZmfKk_rl4Q","yourmuzeId":"0","state":"1"},
+{"number":"70","name":"Radio Nawa - Arabic","description":"","logo":"/s99075.png","streamUrl":"http://nawaradio.primcast.com:4098/;","yourmuzeId":"0","state":"1"},
+{"number":"71","name":"Radio Nawa - Music","description":"","logo":"/s99075.png","streamUrl":"http://nawaradio3.primcast.com:9122/;","yourmuzeId":"0","state":"1"},
+{"number":"72","name":"Rojava FM","description":"","logo":"/s99075.png","streamUrl":"https://live5.karwan.tv/karwan.tv/rojava-fm/chunks.m3u8?nimblesessionid=230165&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjAgNTo1MToyOSBBTSZoYXNoX3ZhbHVlPUJjMzRFc05XUko4bU9iYjhVclY2NXc9PSZ2YWxpZG1pbnV0ZXM9MjA=","yourmuzeId":"0","state":"1"},
+{"number":"73","name":"Sound OF JOY(راديو صوت الفرح)","description":"","logo":"/s99075.png","streamUrl":"https://s2.radio.co/sae7326b67/listen","yourmuzeId":"0","state":"1"},
+{"number":"74","name":"ﺇﺫﺍﻋﺔ ﺻﻮﺕ ﺍﻟﻌﺮﺍﻕ","description":"","logo":"/s99075.png","streamUrl":"https://s2.radio.co/s92939c19b/listen","yourmuzeId":"0","state":"1"},
      
 
 
